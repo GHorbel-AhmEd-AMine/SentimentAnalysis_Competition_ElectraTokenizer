@@ -1,4 +1,4 @@
-# SentimentAnalysis_Competition_ElectraTokenizer
+# SentimentAnalysisCompetition_ElectraTokenizer
 
 # Problem Overview 
 Sentiment analysis studies the subjective information in an expression, that is, the opinions, appraisals, emotions, or attitudes towards a topic, person or entity. 
