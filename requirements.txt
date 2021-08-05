@@ -1,0 +1,6 @@
+torch
+pytorch
+Numpy
+scipy 
+nltk
+transformers
