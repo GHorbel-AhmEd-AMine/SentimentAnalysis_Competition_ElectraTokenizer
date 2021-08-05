@@ -36,6 +36,7 @@ two transformer models: the generator and the discriminator. The generator’s r
 The discriminator, which is the model we’re interested in, tries to identify which tokens were replaced by the generator in the sequence.
 
 # Achievements 
-I have achieved an accuracy of 88.1924 % on the test set using VGG16.
+I have achieved an accuracy of 88.1924 % on the test set.
+
 Claim the second position on the competition leaderboard.
 
